@@ -14,15 +14,15 @@ order: 2
 </script>
 
 > [!warning]
-> 以下教程仅适用于`0.3.X`-`0.5.X`版本。
+> 以下教程仅适用于`0.3.X`-`0.6.X`版本。
 
 > [!important]
 > 表格中，斜体的属性为不建议修改的字段，修改后可能会导致游戏崩溃或无法正常运行。
 
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-7637695321442015"
-     data-ad-slot="3900516289"
+     data-ad-client="ca-pub-2336226859954206"
+     data-ad-slot="6758794743"
      data-ad-format="auto"
      data-full-width-responsive="true">
 </ins>

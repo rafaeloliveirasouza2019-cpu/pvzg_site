@@ -16,14 +16,14 @@ order: 2
 ## 游戏常见问题
 
 > [!note]
-> 请在游玩或提问前阅读此 FaQ，此 FaQ 适用于 0.5.X 版本
+> 请在游玩或提问前阅读此 FaQ，此 FaQ 适用于 0.6.X 版本
 >
 > Q&A by @Mola Mola in Discord
 
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-7637695321442015"
-     data-ad-slot="3900516289"
+     data-ad-client="ca-pub-2336226859954206"
+     data-ad-slot="6758794743"
      data-ad-format="auto"
      data-full-width-responsive="true">
 </ins>

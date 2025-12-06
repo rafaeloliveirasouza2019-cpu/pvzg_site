@@ -16,14 +16,14 @@ order: 2
 ## Frequently Asked Game Questions
 
 > [!note]
-> Please read the FaQ before playing or asking questions. This FaQ is Valid till 0.5.X version
+> Please read the FaQ before playing or asking questions. This FaQ is Valid till 0.6.X version
 >
 > Q&A by @Mola Mola in Discord
 
 <ins class="adsbygoogle"
      style="display:block"
-     data-ad-client="ca-pub-7637695321442015"
-     data-ad-slot="3900516289"
+     data-ad-client="ca-pub-2336226859954206"
+     data-ad-slot="6758794743"
      data-ad-format="auto"
      data-full-width-responsive="true">
 </ins>
